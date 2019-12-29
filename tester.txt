@@ -1,0 +1,7 @@
+hi keshu this is a test for the code u just sent me if this is sent reply
+'woohoo'
+if sent==false:
+	hope=lost
+	setattr=high
+
+frankenstiens monster awaits
